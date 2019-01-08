@@ -1,3 +1,3 @@
-# Screenshots
+# Screenshot
 
-![Screenshots](doc/screenshots.jpg "Screenshots")
+![Screenshot](doc/screenshot.jpg "Screenshot")
